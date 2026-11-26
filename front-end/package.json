@@ -90,7 +90,7 @@
     "typewriter-effect": "^2.18.2",
     "unist-util-visit": "^4.0.0",
     "use-sound": "^4.0.1",
-    "zod": "^3.12.0"
+    "zod": "^4.6.6"
   },
   "devDependencies": {
     "@iconify/react": "^5.0.2",
